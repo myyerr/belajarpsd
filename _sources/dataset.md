@@ -9,4 +9,4 @@ import pandas as pd
 df = pd.read_csv("dataset/Coimbra_breast_cancer_dataset.csv")
 
 # Tampilkan 5 data teratas
-df.head(10)
+df.head()
