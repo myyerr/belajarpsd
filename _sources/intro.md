@@ -5,17 +5,17 @@ Mata Kuliah: *Proyek Sains Data*
 
 ---
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 - **Nama**  : Moh. Reiki Hidayatullah  
 - **NIM**   : 230411100153  
 
-## 👨‍🏫 Dosen Pengampu
+## Dosen Pengampu
 - **Nama**  : MULA'AB, S.Si., M.Kom  
 - **NIP**   : 197305202002121001  
 
 ---
 
-## 📖 Deskripsi
+## Deskripsi
 
 Website ini dibuat untuk mendokumentasikan seluruh proses pembelajaran dan tugas pada mata kuliah **Proyek Sains Data**.  
 Melalui Jupyter Book, semua tahapan akan ditampilkan secara terstruktur mulai dari:  
