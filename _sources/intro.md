@@ -8,6 +8,7 @@ Mata Kuliah: *Proyek Sains Data*
 ## Identitas Mahasiswa
 - **Nama**  : Moh. Reiki Hidayatullah  
 - **NIM**   : 230411100153  
+- **Email**   : insanreiki2@gmail.com
 
 ## Dosen Pengampu
 - **Nama**  : MULA'AB, S.Si., M.Kom  
